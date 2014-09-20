@@ -1,0 +1,5 @@
+S:\Programming\C#\Git\EventMonitor\EventMonitor\bin\Debug\EventMonitor.dll
+S:\Programming\C#\Git\EventMonitor\EventMonitor\bin\Debug\EventMonitor.pdb
+S:\Programming\C#\Git\EventMonitor\EventMonitor\obj\Debug\EventMonitor.csprojResolveAssemblyReference.cache
+S:\Programming\C#\Git\EventMonitor\EventMonitor\obj\Debug\EventMonitor.dll
+S:\Programming\C#\Git\EventMonitor\EventMonitor\obj\Debug\EventMonitor.pdb

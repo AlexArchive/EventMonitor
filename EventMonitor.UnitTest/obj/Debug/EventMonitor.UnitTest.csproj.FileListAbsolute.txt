@@ -1,0 +1,9 @@
+S:\Programming\C#\Git\EventMonitor\EventMonitor.UnitTest\bin\Debug\EventMonitor.UnitTest.dll
+S:\Programming\C#\Git\EventMonitor\EventMonitor.UnitTest\bin\Debug\EventMonitor.UnitTest.pdb
+S:\Programming\C#\Git\EventMonitor\EventMonitor.UnitTest\bin\Debug\EventMonitor.dll
+S:\Programming\C#\Git\EventMonitor\EventMonitor.UnitTest\bin\Debug\xunit.dll
+S:\Programming\C#\Git\EventMonitor\EventMonitor.UnitTest\bin\Debug\EventMonitor.pdb
+S:\Programming\C#\Git\EventMonitor\EventMonitor.UnitTest\bin\Debug\xunit.xml
+S:\Programming\C#\Git\EventMonitor\EventMonitor.UnitTest\obj\Debug\EventMonitor.UnitTest.csprojResolveAssemblyReference.cache
+S:\Programming\C#\Git\EventMonitor\EventMonitor.UnitTest\obj\Debug\EventMonitor.UnitTest.dll
+S:\Programming\C#\Git\EventMonitor\EventMonitor.UnitTest\obj\Debug\EventMonitor.UnitTest.pdb
